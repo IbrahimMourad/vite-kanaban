@@ -1,0 +1,43 @@
+{
+  "tasks": [
+    {
+      "id": "1"
+    },
+    {
+      "title": "Implement auth form",
+      "description": "Login form with validation",
+      "column": "review",
+      "id": "2",
+      "order": 1
+    },
+    {
+      "title": "Review API integration",
+      "description": "Validate task endpoints and error handling",
+      "column": "review",
+      "id": "3",
+      "order": 2
+    },
+    {
+      "title": "Deploy staging build",
+      "description": "Push build to staging environment",
+      "column": "in_progress",
+      "id": "4",
+      "order": 0
+    },
+    {
+      "title": "qewe",
+      "description": "eeee",
+      "column": "backlog",
+      "priority": "low",
+      "id": "6cCdjHAZ02g"
+    },
+    {
+      "title": "qqq",
+      "description": "qqqqq",
+      "column": "review",
+      "priority": "high",
+      "id": "_LVEWjjMTvM"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
